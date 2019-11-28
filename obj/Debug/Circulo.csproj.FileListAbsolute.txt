@@ -1,0 +1,10 @@
+C:\Users\P114\source\repos\Circulo\obj\Debug\Circulo.csprojAssemblyReference.cache
+C:\Users\P114\source\repos\Circulo\obj\Debug\Circulo.Form1.resources
+C:\Users\P114\source\repos\Circulo\obj\Debug\Circulo.Properties.Resources.resources
+C:\Users\P114\source\repos\Circulo\obj\Debug\Circulo.csproj.GenerateResource.cache
+C:\Users\P114\source\repos\Circulo\obj\Debug\Circulo.csproj.CoreCompileInputs.cache
+C:\Users\P114\source\repos\Circulo\bin\Debug\Circulo.exe.config
+C:\Users\P114\source\repos\Circulo\bin\Debug\Circulo.exe
+C:\Users\P114\source\repos\Circulo\bin\Debug\Circulo.pdb
+C:\Users\P114\source\repos\Circulo\obj\Debug\Circulo.exe
+C:\Users\P114\source\repos\Circulo\obj\Debug\Circulo.pdb
